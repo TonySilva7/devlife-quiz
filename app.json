@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ignitequiz",
-    "slug": "ignitequiz",
+    "name": "devlife_quiz",
+    "slug": "devlife_quiz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
